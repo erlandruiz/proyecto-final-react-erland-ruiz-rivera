@@ -28,7 +28,7 @@ export const Conocenos = () => {
       <div className="carousel-inner">
         <div className="carousel-item active">
           <img
-            src="../src/assets/mineria.jpg"
+            src="https://res.cloudinary.com/erlandruiz/image/upload/v1692396814/u2ggr2ad5ac6afqwrana.jpg"
             className="d-block w-100 imgConocenos"
             alt="..."
           />
@@ -44,7 +44,7 @@ export const Conocenos = () => {
         </div>
         <div className="carousel-item">
           <img
-            src="../src/assets/petrolera.jpg"
+            src="https://res.cloudinary.com/erlandruiz/image/upload/v1692396834/cdkopspd5rcgjnnvpevl.jpg"
             className="d-block w-100 imgConocenos"
             alt="..."
           />
@@ -56,7 +56,7 @@ export const Conocenos = () => {
         </div>
         <div className="carousel-item">
           <img
-            src="../src/assets/naviera.jpg"
+            src="https://res.cloudinary.com/erlandruiz/image/upload/v1692396825/j4du6ru5cvyw8tgrym5t.jpg"
             className="d-block w-100 imgConocenos"
             alt="..."
           />
